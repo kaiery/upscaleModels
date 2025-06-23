@@ -33,6 +33,10 @@ Also this weekend I played around with a comfyui workflow using SUPIR, I just up
 [All my released models simply downloadable through a python script](https://github.com/Phhofm/models/releases/tag/all_models)
 
 Model releases sorted by date, linked to their github release:   
+23.06.2025 - [2xPublic_realplksr_dysample_layernorm_real](https://github.com/Phhofm/models/releases/tag/2xPublic_realplksr_dysample_layernorm_real)    
+23.06.2025 - [2xPublic_realplksr_dysample_layernorm_real_nn](https://github.com/Phhofm/models/releases/tag/2xPublic_realplksr_dysample_layernorm_real_nn)     
+23.06.2025 - [2xPublic_realplksr_dysample_layernorm_gan](https://github.com/Phhofm/models/releases/tag/2xPublic_realplksr_dysample_layernorm_gan)     
+23.06.2025 - [2xPublic_realplksr_dysample_layernorm_pretrain](https://github.com/Phhofm/models/releases/tag/2xPublic_realplksr_dysample_layernorm_pretrain)      
 21.05.2025 - [2xBHI_small_realplksr_large_dysample_pretrain](https://github.com/Phhofm/models/releases/tag/2xBHI_small_realplksr_large_dysample_pretrain)    
 21.05.2025 - [2xBHI_small_realplksr_large_pretrain](https://github.com/Phhofm/models/releases/tag/2xBHI_small_realplksr_large_pretrain)    
 21.05.2025 - [2xBHI_small_realplksr_dysample_pretrain](https://github.com/Phhofm/models/releases/tag/2xBHI_small_realplksr_dysample_pretrain_series)    
