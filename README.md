@@ -33,6 +33,11 @@ Also this weekend I played around with a comfyui workflow using SUPIR, I just up
 [All my released models simply downloadable through a python script](https://github.com/Phhofm/models/releases/tag/all_models)
 
 Model releases sorted by date, linked to their github release:   
+
+14.10.2025 - [1xgaterv3_r_sharpen](https://github.com/Phhofm/models/releases/tag/1xgaterv3_r_sharpen)     
+14.10.2025 - [1xgaterv3_r_restore](https://github.com/Phhofm/models/releases/tag/1xgaterv3_r_restore)     
+14.10.2025 - [2xBHI_small_esrgan_pretrain](https://github.com/Phhofm/models/releases/tag/2xBHI_small_esrgan_pretrain)    
+14.10.2025 - [2xBHI_small_drct-xl_pretrain](https://github.com/Phhofm/models/releases/tag/2xBHI_small_drct-xl_pretrain)     
 23.06.2025 - [2xPublic_realplksr_dysample_layernorm_real](https://github.com/Phhofm/models/releases/tag/2xPublic_realplksr_dysample_layernorm_real)    
 23.06.2025 - [2xPublic_realplksr_dysample_layernorm_real_nn](https://github.com/Phhofm/models/releases/tag/2xPublic_realplksr_dysample_layernorm_real_nn)     
 23.06.2025 - [2xPublic_realplksr_dysample_layernorm_gan](https://github.com/Phhofm/models/releases/tag/2xPublic_realplksr_dysample_layernorm_gan)     
