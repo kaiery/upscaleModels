@@ -33,7 +33,7 @@ Also this weekend I played around with a comfyui workflow using SUPIR, I just up
 [All my released models simply downloadable through a python script](https://github.com/Phhofm/models/releases/tag/all_models)
 
 Model releases sorted by date, linked to their github release:   
-
+14.10.2025 - [PSISRD_val125](https://huggingface.co/datasets/Phips/PSISRD_val125) (a cc0 validation set, more info in the huggingface dataset card)        
 14.10.2025 - [1xgaterv3_r_sharpen](https://github.com/Phhofm/models/releases/tag/1xgaterv3_r_sharpen)     
 14.10.2025 - [1xgaterv3_r_restore](https://github.com/Phhofm/models/releases/tag/1xgaterv3_r_restore)     
 14.10.2025 - [2xBHI_small_esrgan_pretrain](https://github.com/Phhofm/models/releases/tag/2xBHI_small_esrgan_pretrain)    
